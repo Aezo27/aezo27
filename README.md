@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Rama Sullivan
 <h5>I like web development, especially the frontend. Enthusiastic about attractive and interactive designs, pixel-perfect, and trying to be as neat as possible in coding also enthusiasm and passion for exploring the latest and popular software libraries and technologies.</h3>
 
-- 🔭 I’m currently working on **MCU REVAMP and PAY REVAMP**
+- 🔭 I’m currently working on **PAY REVAMP**
 
 - 🌱 I’m currently learning **English and Japanese**
 
